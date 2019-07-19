@@ -1,7 +1,5 @@
 # xfOpenCV Vivado HLS 2018.2 使用指南
 
-# [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
-
 **Tips：**
 1. xfopencv-2018.2_release.zip为xfOpenCV库文件
 2. ip.zip为fast和resize ip的源文件
